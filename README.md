@@ -1,21 +1,86 @@
-<h1 align="center">Hi 👋, I'm Cheuk Ming</h1>
-<h3 align="center">Working as a software engineer, a STEM teacher, and enthusiastic in Robotic Automation</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
+<h1 align="center">Cheuk Ming</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheukming0607&label=Profile%20views&color=0e75b6&style=flat" alt="cheukming0607" /> </p>
-
-- 📫 How to reach me **lilcheukming@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/cheukming0607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cheukming0607" height="30" width="40" /></a>
+<p align="center">
+  Full-stack automation developer building practical systems for real workflows
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/cheukming0607">
+    <img src="https://img.shields.io/badge/LinkedIn-Cheuk%20Ming-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lilcheukming@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lilcheukming%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cheukming0607&show_icons=true&locale=en&layout=compact" alt="cheukming0607" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Apps-2F855A?style=flat-square" alt="Web Apps" />
+  <img src="https://img.shields.io/badge/Automation-1F4E79?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/API%20Integrations-7A3E9D?style=flat-square" alt="API Integrations" />
+  <img src="https://img.shields.io/badge/Data%20Workflows-A14F03?style=flat-square" alt="Data Workflows" />
+  <img src="https://img.shields.io/badge/Deployments-5B6770?style=flat-square" alt="Deployments" />
+  <img src="https://img.shields.io/badge/STEM%20%26%20Robotics-B45309?style=flat-square" alt="STEM and Robotics" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cheukming0607&show_icons=true&locale=en" alt="cheukming0607" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cheukming0607&" alt="cheukming0607" /></p>
+I build software that helps teams spend less time fighting operations and more time moving work forward. Most of my projects sit where web apps, business processes, automation, and data meet.
+
+I like systems that are clear, useful, and reliable: dealer portals, internal tools, API integrations, reporting pipelines, deployment workflows, and local-first AI tooling.
+
+## Build Map
+
+| Area | What it looks like |
+| --- | --- |
+| **Web** | dealer portals, warranty flows, business websites, admin dashboards |
+| **Automation** | Shopify and Zoho flows, cron jobs, webhook handling, process cleanup |
+| **Data** | CSV enrichment, reporting pipelines, QA checks, inventory and finance analysis |
+| **Ops** | GitHub Actions, Docker, PM2, Supervisor, rollback-aware deploys |
+| **Teaching** | STEM learning, robotics, technical explanation, practical mentoring |
+
+## Things I Enjoy Building
+
+### Business Apps
+
+Apps that help real teams run daily work more smoothly.
+
+`React` `Next.js` `Vue/Nuxt` `TypeScript` `PHP/Webman`
+
+### Integrations
+
+Connections between stores, ERPs, forms, emails, and internal systems.
+
+`Node.js` `Express` `REST APIs` `OAuth` `Shopify` `Zoho`
+
+### Data Workflows
+
+Pipelines that turn messy exports into usable reports and decisions.
+
+`Python` `CSV Processing` `PostgreSQL` `MongoDB` `Reporting`
+
+### Reliable Shipping
+
+Deployments that are checked, reversible, and boring in the best way.
+
+`GitHub Actions` `Docker` `PM2` `Supervisor` `Linux`
+
+## Project Signals
+
+- **Shopify to Zoho sync**: webhook-driven order flow with idempotency checks and fallback jobs.
+- **Stock movement enrichment**: Python tooling for Zoho exports, API joins, caches, and cost tracing.
+- **SEO-ready business sites**: SSR, canonical URL hygiene, redirect validation, and production checks.
+- **Deployment workflows**: health checks, backups, restart verification, and rollback thinking.
+- **Personal AI assistant**: local-first orchestration with FastAPI, PostgreSQL, n8n, and Telegram delivery.
+
+## Outside Pure Software
+
+STEM teaching and robotics are a big part of how I work. They push me to explain clearly, debug patiently, and build tools that make sense to people who are focused on the job, not the stack.
+
+## Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vue%20%7C%20Nuxt-0F766E?style=for-the-badge" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python%20%7C%20PHP-1D4ED8?style=for-the-badge" alt="Backend" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MongoDB%20%7C%20CSV-EA580C?style=for-the-badge" alt="Data" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20GitHub%20Actions%20%7C%20PM2-4B5563?style=for-the-badge" alt="DevOps" />
+</p>
